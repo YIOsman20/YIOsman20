@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<img  align="right" height="120" width="150" alt="" src="https://cliply.co/wp-content/uploads/2019/07/371906770_HITTING_TARGET_400x400.gif" />
+<img  align="right" height="150" width="150" alt="" src="https://cliply.co/wp-content/uploads/2019/07/371906770_HITTING_TARGET_400x400.gif" />
  
 ## Other stuff
 
