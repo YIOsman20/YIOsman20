@@ -5,7 +5,6 @@
 
 
 ## About me:
-- 🔭 I’m currently studying at [PGKPI](https://github.com/codingburgas/)
 - 🌱 I’m currently learning C++ & HTML and CSS
 - 👾 Favourite thing: Playing videogames
 - 📫 How to reach me: yiosman20@codingburgas.bg
